@@ -8,7 +8,7 @@ My goal for 2025 is to enhance my skills and transition into a full-stack develo
 ### Backend:  
 <div style="display: flex;" >
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django">
 
 </div>
 
