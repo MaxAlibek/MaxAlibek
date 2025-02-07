@@ -30,7 +30,7 @@ My goal for 2025 is to enhance my skills and transition into a full-stack develo
 - Learn frontend technologies to become a full-stack developer  
 
 ## 📫 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/алибек-махмуджанов-a0481b330)  
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/алибек-махмуджанов-a0481b330)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Maxmudjonov_A)
 
 🔥 Always learning & building cool things!
